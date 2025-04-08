@@ -1,0 +1,1 @@
+// Pagina principale React (placeholder)
