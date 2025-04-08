@@ -1,4 +1,3 @@
-// API per collegare a GPT-4 (placeholder)
 import { useState } from "react";
 
 export default function Home() {
